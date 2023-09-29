@@ -55,6 +55,10 @@ h2 {
     margin: 20px;
 }
 
+h5 {
+    margin-bottom: 20px;
+}
+
 h6 {
     line-height: 35px;
 }
